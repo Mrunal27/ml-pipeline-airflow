@@ -1,0 +1,16 @@
+# Python artifacts
+__pycache__/
+*.pyc
+
+# Airflow logs and DB
+logs/
+airflow.db
+
+# Model files
+*.pkl
+
+# Environment config
+.env
+
+# Data files (optional)
+data/housing.csv
